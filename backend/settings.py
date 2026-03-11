@@ -156,6 +156,8 @@ LOGURU_LOGGINGS = {
             'rotation': '1mb',
             'retention': '2 days',
             'compression': 'zip',
+            'backtrace': True,
+            'diagnose': True
         },
         {
             'sink': BASE_DIR / 'logs/critical.log',
