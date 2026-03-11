@@ -1,0 +1,3 @@
+2026-03-11 22:51:59 | CRITICAL | backend.urls: test_logger:26 - This is a critical message
+2026-03-11 22:52:39 | CRITICAL | backend.urls: test_logger:26 - This is a critical message
+2026-03-11 22:52:40 | CRITICAL | backend.urls: test_logger:26 - This is a critical message
